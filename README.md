@@ -13,6 +13,10 @@ The application helps users prioritise vocabulary items based on importance and 
 - Generate study batches based on priority
 - Present vocabulary data through a JavaFX interface
 
+## UI
+
+![UI](screenshots/UI.png)
+
 ## Technologies
 
 - Java
