@@ -1,0 +1,16 @@
+comentar/A+/3
+filtrar/A+/3
+disparar/A+/3
+encender/A+/3
+escoger/A+/3
+levantar/A+/3
+irresistible/A+/3
+almacenar/A+/3
+conversar/A/3
+alérgico/A/3
+defectuoso/A/3
+instancia/A/2
+inconveniente/A/2
+incómodo/A/2
+molesto/A/3
+entallar/B+/3
